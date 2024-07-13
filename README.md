@@ -20,9 +20,19 @@ This Repository consist of all the Jupyter Notebooks, Images and Excel files of 
 
 ## Task 4: Client Presentation
 # Data Visualization and Storytelling Presentation
+# Data Visualization and Storytelling Presentation
+
+## Slide 1
+![Slide 1](https://github.com/mahe115/Accenture-Data-Analytics/blob/main/Stage%203_%20Client%20Presentation/1.png)
+
+## Slide 2
+![Slide 2](https://github.com/mahe115/Accenture-Data-Analytics/blob/main/Stage%203_%20Client%20Presentation/2.png)
+
+## Slide 3
+![Slide 3](https://github.com/mahe115/Accenture-Data-Analytics/blob/main/Stage%203_%20Client%20Presentation/3.png)
 
 You can view the PowerPoint presentation using the link below:
 
 [View Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmahe115%2FAccenture-Data-Analytics%2Fmain%2FStage%203_%2520Client%2520Presentation%2FForage%2520Accenture%2520Data%2520Analytics%2520Task%25203%2520-%2520Data%2520Visualization%2520and%2520Storytelling.pptx&wdOrigin=BROWSELINK)
 
-## [Completion Certificate](https://github.com/ADVAIT135/Forage-Accenture-Data-Analytics-/blob/841fe0b45a370a8ec77040aaa48fcdb35d653dc1/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_xHj9pxotQTSvEtW8B_1701528341116_completion_certificate.pdf)
+## [Completion Certificate](https://github.com/mahe115/Accenture-Data-Analytics/blob/main/Accenture%20North%20America%20Job%20Simulation%20completion_certificate.pdf)
